@@ -1,0 +1,26 @@
+{
+  "name": "binance-pair-profit-checker",
+  "version": "0.0.1",
+  "description": "Scalping Profit Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasymshykh/binance-pair-profit-checker.git"
+  },
+  "keywords": [
+    "Binance"
+  ],
+  "author": "wasymshykh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wasymshykh/binance-pair-profit-checker/issues"
+  },
+  "homepage": "https://github.com/wasymshykh/binance-pair-profit-checker#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "locutus": "^2.0.15"
+  }
+}
